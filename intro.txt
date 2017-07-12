@@ -1,0 +1,2 @@
+This repo holds the code for our c project 
+it is highly unordered 
